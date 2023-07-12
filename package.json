@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "version": "1.0.0",
+  "name": "@sumiEmpire001/-my_portfolio",
+  "version": "1.0.1",
   "description": "",
   "main": "index.html",
   "scripts": {
@@ -10,6 +10,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "author": "",
+  "author": "john daramola",
   "license": "ISC"
 }
